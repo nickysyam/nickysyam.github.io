@@ -1,33 +1,33 @@
 [
     {
         "id": 1,
-        "title": "",
-        "description": "Platform e-commerce modern dengan fitur pembayaran terintegrasi dan dashboard admin yang lengkap.",
-        "image": "assets/images/projects/andrea-caramello-1zGJijLk51M-unsplash.jpg",
-        "category": "web",
-        "categoryLabel": "Website",
-        "githubUrl": "https://github.com/nicky/ecommerce",
-        "liveUrl": "https://ecommerce.example.com"
+        "title": "Customer Behavior Data Analization",
+        "description": " This project explores customer behavior patterns using a multi-layered analytical approach combining raw data, interactive dashboards, and Python-based insights.",
+        "image": "assets/images/projects/customer_behavior_dashboard.jpg",
+        "category": "design",
+        "categoryLabel": "Data Analyst Portfolio Power BI",
+        "githubUrl": "https://github.com/nickysyam/Project_customer_behavior",
+        "liveUrl": "https://github.com/nickysyam/Project_customer_behavior"
     },
     {
         "id": 2,
-        "title": "GA4 Data Analytics Dashboard",
-        "description": "Dashboard analitik berbasis Google Analytics 4 (GA4) yang menampilkan performa kampanye digital dan perilaku audiens secara real-time.",
-        "image": "assets/images/projects/taskapp.jpg",
-        "category": "app",
-        "categoryLabel": "Aplikasi",
-        "githubUrl": "https://github.com/nicky/taskapp",
-        "liveUrl": "https://taskapp.example.com"
+        "title": "Plants Sales Dashboard",
+        "description": "This interactive dashboard visualizes key metrics from a plant retail business, helping stakeholders understand sales performance, customer behavior, and inventory trends.",
+        "image": "assets/images/projects/plant_sales_dashboard.jpg",
+        "category": "design",
+        "categoryLabel": "Data Analyst Portfolio Power BI",
+        "githubUrl": "https://github.com/nickysyam/Project_plantation_dashboard",
+        "liveUrl": "https://github.com/nickysyam/Project_plantation_dashboard"
     },
     {
         "id": 3,
-        "title": "Banking App UI",
-        "description": "Desain UI untuk aplikasi perbankan dengan fokus pada keamanan dan kemudahan penggunaan.",
-        "image": "assets/images/projects/banking.jpg",
-        "category": "design",
-        "categoryLabel": "Desain",
-        "githubUrl": "https://github.com/nicky/banking-ui",
-        "liveUrl": "https://banking.example.com"
+        "title": "Excel Learning Website",
+        "description": "This website is designed as a friendly and accessible platform to help users master Microsoft Excel, from basic formulas to advanced analytics. Whether you're a student, professional, or lifelong learner, this site offers structured guidance to build real-world spreadsheet skills.",
+        "image": "assets/images/projects/Excellogo.jpeg",
+        "category": "Website",
+        "categoryLabel": "Website",
+        "githubUrl": "https://nickysyam.github.io/websitepembelajaranexcel/",
+        "liveUrl": "https://nickysyam.github.io/websitepembelajaranexcel/"
     },
     {
         "id": 4,
