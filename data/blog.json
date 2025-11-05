@@ -1,28 +1,28 @@
 [
     {
         "id": 1,
-        "title": "Mengoptimalkan Performa Website dengan Teknik Modern",
-        "excerpt": "Pelajari teknik-teknik terbaru untuk meningkatkan kecepatan loading website dan memberikan pengalaman pengguna yang lebih baik.",
-        "image": "assets/images/blog/performance.jpg",
-        "date": "15 Mei 2023",
+        "title": "The Future of Language Models in Education",
+        "excerpt": "Language models have rapidly evolved from experimental technologies to powerful tools that are reshaping numerous industries, and education is no exception. As these models become more sophisticated, they're poised to transform how we teach, learn, and assess knowledge in fundamental ways.",
+        "image": "assets/images/blog/futureoflanguage.jpg",
+        "date": "15 October 2025",
         "readingTime": 5,
         "url": "#"
     },
     {
         "id": 2,
-        "title": "Tren Desain UI/UX yang Mendominasi di Tahun 2023",
-        "excerpt": "Eksplorasi tren desain terkini yang sedang populer dan bagaimana menerapkannya dalam proyek Anda.",
-        "image": "assets/images/blog/ui-trends.jpg",
-        "date": "2 Mei 2023",
+        "title": "Data Storytelling: Making Numbers Speak",
+        "excerpt": "In an era of information overload, the ability to transform raw data into compelling narratives has become an invaluable skill. Data storytelling combines analytical rigor with narrative techniques to make complex information accessible, memorable, and actionable.",
+        "image": "assets/images/blog/datastorytelling.jpg",
+        "date": "28 September 2025",
         "readingTime": 7,
         "url": "#"
     },
     {
         "id": 3,
-        "title": "Memilih JavaScript Framework yang Tepat untuk Proyek Anda",
-        "excerpt": "Perbandingan mendalam antara React, Vue, dan Angular untuk membantu Anda memilih framework yang sesuai dengan kebutuhan.",
-        "image": "assets/images/blog/js-framework.jpg",
-        "date": "18 April 2023",
+        "title": "Bilingual Content Creation in the Digital Age",
+        "excerpt": "In our increasingly globalized world, the ability to create content that resonates across different languages and cultures has become a valuable skill. Bilingual content creation goes beyond simple translation—it requires cultural understanding, linguistic nuance, and strategic adaptation to effectively reach diverse audiences.",
+        "image": "assets/images/blog/bilingualcontent.jpg",
+        "date": "10 September 2025",
         "readingTime": 10,
         "url": "#"
     }
