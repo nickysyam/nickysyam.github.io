@@ -31,13 +31,13 @@
     },
     {
         "id": 4,
-        "title": "Travel Website",
-        "description": "Website travel dengan sistem booking dan integrasi peta interaktif.",
-        "image": "assets/images/projects/travel.jpg",
-        "category": "web",
+        "title": "Mastery Excel With This",
+        "description": "Learn the 15 most essential Excel functions with clear examples and tips. A complete guide to boost your skills and productivity.",
+        "image": "assets/images/projects/excelwme.jpeg",
+        "category": "website",
         "categoryLabel": "Website",
-        "githubUrl": "https://github.com/nicky/travel",
-        "liveUrl": "https://travel.example.com"
+        "githubUrl": "https://github.com/nickysyam/ExcelMasteryLearn/",
+        "liveUrl": "https://github.com/nickysyam/ExcelMasteryLearn/"
     },
     {
         "id": 5,
