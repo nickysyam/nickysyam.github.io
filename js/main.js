@@ -4,7 +4,46 @@ AOS.init({
     once: true,
     offset: 100
 });
+// Logika Dark Mode
+    const htmlElement = document.documentElement;
+    const themeToggleButton = document.getElementById('theme-toggle');
+    const themeIcon = themeToggleButton ? themeToggleButton.querySelector('i') : null;
 
+    // Fungsi untuk mengganti tema
+    const toggleTheme = () => {
+        const currentTheme = htmlElement.getAttribute('data-theme');
+        const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
+
+        htmlElement.setAttribute('data-theme', newTheme);
+        localStorage.setItem('theme', newTheme); // Simpan pilihan pengguna
+
+        // Ubah ikon
+        if (themeIcon) {
+            themeIcon.className = newTheme === 'dark' ? 'fas fa-sun' : 'fas fa-moon';
+        }
+    };
+
+    // Cek preferensi tema saat halaman dimuat
+    const savedTheme = localStorage.getItem('theme');
+    if (savedTheme) {
+        htmlElement.setAttribute('data-theme', savedTheme);
+        if (themeIcon) {
+            themeIcon.className = savedTheme === 'dark' ? 'fas fa-sun' : 'fas fa-moon';
+        }
+    } else if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        // Jika belum ada preferensi, gunakan preferensi sistem
+        htmlElement.setAttribute('data-theme', 'dark');
+        if (themeIcon) {
+            themeIcon.className = 'fas fa-sun';
+        }
+    }
+
+    // Gunakan Event Delegation karena tombol dimuat secara dinamis
+    document.body.addEventListener('click', (event) => {
+        if (event.target.closest('#theme-toggle')) {
+            toggleTheme();
+        }
+    });
 // Hide loader when page is loaded
 window.addEventListener('load', () => {
     setTimeout(() => {
