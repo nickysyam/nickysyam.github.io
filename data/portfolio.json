@@ -24,7 +24,7 @@
         "title": "Excel Learning Website",
         "description": "This website is designed as a friendly and accessible platform to help users master Microsoft Excel, from basic formulas to advanced analytics. Whether you're a student, professional, or lifelong learner, this site offers structured guidance to build real-world spreadsheet skills.",
         "image": "assets/images/projects/Excellogo.jpeg",
-        "category": "Website",
+        "category": "website",
         "categoryLabel": "Website",
         "githubUrl": "https://nickysyam.github.io/websitepembelajaranexcel/",
         "liveUrl": "https://nickysyam.github.io/websitepembelajaranexcel/"
@@ -41,13 +41,13 @@
     },
     {
         "id": 5,
-        "title": "Fitness Tracker",
-        "description": "Aplikasi pelacak kebugaran dengan analisis data kesehatan dan rekomendasi workout.",
-        "image": "assets/images/projects/fitness.jpg",
-        "category": "app",
-        "categoryLabel": "Aplikasi",
-        "githubUrl": "https://github.com/nicky/fitness",
-        "liveUrl": "https://fitness.example.com"
+        "title": "Personal Blog Website",
+        "description": "Welcome to my corner of the internet — a space where language, logic, and learning come together. Feel free to explore my writing samples or connect with me for collaboration opportunities.",
+        "image": "assets/images/projects/personalblog.png",
+        "category": "website",
+        "categoryLabel": "Website",
+        "githubUrl": "https://nickysyam.github.io/Personalblog/",
+        "liveUrl": "https://nickysyam.github.io/Personalblog/"
     },
     {
         "id": 6,

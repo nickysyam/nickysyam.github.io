@@ -6,7 +6,7 @@
         "image": "assets/images/blog/futureoflanguage.jpg",
         "date": "15 October 2025",
         "readingTime": 5,
-        "url": "#"
+        "url": "https://nickysyam.github.io/Personalblog/"
     },
     {
         "id": 2,
@@ -15,7 +15,7 @@
         "image": "assets/images/blog/datastorytelling.jpg",
         "date": "28 September 2025",
         "readingTime": 7,
-        "url": "#"
+        "url": "https://nickysyam.github.io/Personalblog/"
     },
     {
         "id": 3,
@@ -24,6 +24,6 @@
         "image": "assets/images/blog/bilingualcontent.jpg",
         "date": "10 September 2025",
         "readingTime": 10,
-        "url": "#"
+        "url": "https://nickysyam.github.io/Personalblog/"
     }
 ]

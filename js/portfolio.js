@@ -235,11 +235,11 @@ async function loadBlog() {
                 <div class="blog-content">
                     <div class="blog-meta">
                         <span><i class="far fa-calendar"></i> ${post.date}</span>
-                        <span><i class="far fa-clock"></i> ${post.readingTime || 5} menit baca</span>
+                        <span><i class="far fa-clock"></i> ${post.readingTime || 5} reading time</span>
                     </div>
                     <h3 class="blog-title">${post.title}</h3>
                     <p class="blog-excerpt">${post.excerpt}</p>
-                    <a href="${post.url || '#'}" class="read-more">Baca Selengkapnya <i class="fas fa-arrow-right"></i></a>
+                    <a href="${post.url || '#'}" class="read-more">Read More<i class="fas fa-arrow-right"></i></a>
                 </div>
             `;
             

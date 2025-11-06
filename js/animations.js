@@ -3,7 +3,7 @@ const typingTexts = [
     'Web Developer',
     'Data Analyst',
     'Digital Marketing',
-    'Problem Solver',
+    'STEM Enthusiast',
     'Creative Thinker'
 ];
 let textIndex = 0;
