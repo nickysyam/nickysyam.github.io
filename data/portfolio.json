@@ -51,11 +51,11 @@
     },
     {
         "id": 6,
-        "title": "Social Media Dashboard",
-        "description": "Dashboard analitik media sosial dengan visualisasi data yang menarik dan informatif.",
-        "image": "assets/images/projects/dashboard.jpg",
-        "category": "design",
-        "categoryLabel": "Desain",
+        "title": "UI Example Property website",
+        "description": "This property website prioritizes clarity and ease of use over modern complexity. The interface is designed to be familiar and straightforward, making it accessible to users of all ages and backgrounds — including those less experienced with technology.",
+        "image": "assets/images/projects/properti.jpg",
+        "category": "website",
+        "categoryLabel": "Website",
         "githubUrl": "https://github.com/nicky/dashboard",
         "liveUrl": "https://dashboard.example.com"
     }
