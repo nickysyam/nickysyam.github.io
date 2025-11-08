@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Beri tahu Google di mana sitemap berada
+Sitemap: https://nickysyam.github.io/sitemap.xml
