@@ -58,5 +58,15 @@
         "categoryLabel": "Website",
         "githubUrl": "https://nickysyam.github.io/royallandproperty/",
         "liveUrl": "https://nickysyam.github.io/royallandproperty/"
+    },
+    {
+        "id": 7,
+        "title": "Fundraising Performance Analysis – Power BI Dashboard Overview",
+        "description": "This dashboard was designed to visualize and analyze fundraising data from KPP DT Peduli Serang over the period 2021–2023.",
+        "image": "assets/images/projects/fundraisingperformance.jpg",
+        "category": "design",
+        "categoryLabel": "Data Analyst Portfolio Power BI",
+        "githubUrl": "https://github.com/nickysyam/Fundraising-Performance-Analysis",
+        "liveUrl": "https://github.com/nickysyam/Fundraising-Performance-Analysis"
     }
 ]
