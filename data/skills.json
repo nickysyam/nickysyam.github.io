@@ -2,11 +2,11 @@
     {
         "id": 1,
         "name": "HTML/CSS",
-        "level": 90
+        "level": 85
     },
     {
         "id": 2,
-        "name": "Data Analyst",
+        "name": "SQL, Power BI, Tableau,",
         "level": 80
     },
     {
@@ -26,7 +26,7 @@
     },
     {
         "id": 6,
-        "name": "Photography",
-        "level": 85
+        "name": "Analytical Thinking",
+        "level": 80
     }
 ]
